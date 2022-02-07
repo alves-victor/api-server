@@ -1,6 +1,7 @@
 const express = require('express');
 const routes = express.Router();
 
+//"banco de dados"
 let db = [
     'Augusto',
     'Michele',
